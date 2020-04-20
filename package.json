@@ -1,0 +1,33 @@
+{
+  "name": "article-catalogue",
+  "version": "1.0.0",
+  "private": false,
+  "description": "make a catalog for articles",
+  "keywords": ["文章", "目录", "catalogue"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vue serve App.vue"
+  },
+  "author": {
+    "name": "Qin Xuyang",
+    "email": "1446445040@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1446445040/Catalogue"
+  },
+  "bugs": {
+    "url": "https://github.com/1446445040/Catalogue/issues"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "smoothscroll-polyfill": "^0.4.4",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  }
+}
