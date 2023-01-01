@@ -22,12 +22,12 @@
     "url": "https://github.com/1446445040/Catalogue/issues"
   },
   "devDependencies": {
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "smoothscroll-polyfill": "^0.4.4",
     "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^7.1.0"
   }
 }
